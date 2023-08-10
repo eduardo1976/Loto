@@ -1,0 +1,2 @@
+# Loto
+Análise
